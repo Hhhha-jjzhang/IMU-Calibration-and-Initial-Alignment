@@ -1,2 +1,3 @@
 # IMU-Calibration-and-Initial-Alignment
 本项目面向惯性导航系统中的 IMU 标定与初始对准 实验，主要实现加速度计六位置法标定、陀螺角位置法标定、误差参数补偿以及基于重力矢量和地球自转角速度的静态解析粗对准。项目通过处理原始 IMU 数据，估计传感器零偏、比例因子误差和非正交误差，并对补偿前后的数据进行对比分析，以提升 IMU 输出数据的准确性和一致性。该项目形成了“标定—补偿—对准—评估”的完整流程，可为后续惯性导航和组合导航算法实现提供可靠的数据基础
+<img width="709" height="772" alt="image" src="https://github.com/user-attachments/assets/918f47f2-a95c-41b5-b1ec-235e994cf13a" />
