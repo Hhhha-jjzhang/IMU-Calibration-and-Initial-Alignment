@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="images/turntable.jpg" width="70%">
+<img src="images/turntable.png" width="70%">
 
 <br>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="images/xw_gi7681.jpg" width="65%">
+<img src="images/xw_gi7681.png" width="65%">
 
 <br>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<img src="images/span_100c.jpg" width="55%">
+<img src="images/span_100c.png" width="55%">
 
 <br>
 
